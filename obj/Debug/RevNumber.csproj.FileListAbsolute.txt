@@ -1,0 +1,6 @@
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevNumber\RevNumber\bin\Debug\RevNumber.exe.config
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevNumber\RevNumber\obj\Debug\RevNumber.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevNumber\RevNumber\bin\Debug\RevNumber.exe
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevNumber\RevNumber\bin\Debug\RevNumber.pdb
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevNumber\RevNumber\obj\Debug\RevNumber.exe
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevNumber\RevNumber\obj\Debug\RevNumber.pdb
